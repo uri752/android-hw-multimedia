@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw-7-3-1-multimedia</string>
+    <string name="background_button">Фоновая кнопка</string>
+    <string name="action_button">Кнопка действия</string>
+    <string name="main_artist">"Исполнитель: "</string>
+    <string name="main_album">Альбом</string>
+</resources>
